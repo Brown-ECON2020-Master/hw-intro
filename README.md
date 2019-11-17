@@ -34,6 +34,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Likewise, you can clone the class materials: 
    
    `$ git cd Dropbox/ECON2020`
+   
    `$ git clone https://github.com/Brown-ECON2020-Spring2020/class_materials`
 
 - Finally, your local repository will look like this:
@@ -54,6 +55,7 @@ At the first meeting, the instructor will answer your questions for this assignm
    
    `$ git commit -m "Completed hw-intro"` (or something like that)
 - Submit by writing: 
+
    `$ git push`
    
 - Check that your code appears in the online GitHub repository at `https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
