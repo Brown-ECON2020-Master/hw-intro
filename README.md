@@ -5,8 +5,9 @@ This assignment is purposed to make all of you on the same page at the beginning
 
 
 **Aims:**
-1. Getting started with Git, GitHub, and Python. All of these will be used in the whole course.  
-2. Get accustomed to using GitHub Classroom for downloading and submitting your assignment. 
+1. Getting started with Git and GitHub. 
+1. Get accustomed to using GitHub for downloading and submitting your assignment. 
+1. Set up the environment for using Python.
 
 **Tasks:**
 1. Read [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students)
