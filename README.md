@@ -1,4 +1,4 @@
-# assignment_intro
+# hw-intro
 
 ## Welcome to ECON 2020 "Computing for Economists"! 
 
@@ -24,16 +24,12 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Open GitBash (in Windows) or the Terminal (in Mac).
 
 - Decide the location in your local machine where you want to put the local folder of this assignment. 
-
-E.g.) `$ git cd Dropbox/ECON2020/assignments`
+   E.g.) `$ git cd Dropbox/ECON2020/assignments`
 
 - Clone the repository into your local directory which you set above:  
-
-`$ git clone https://github.com/Brown-ECON2020-Spring2020/assignment-intro-yourusername`
-
+   `$ git clone https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 - Go 
-`$ git cd assignment_intro-yourusername`
-
+   `$ git cd assignment_intro-yourusername`
 - You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
 
 
