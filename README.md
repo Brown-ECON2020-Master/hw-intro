@@ -52,7 +52,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 
    `$ git add -A`
    
-   `$ git commit -m "Completed assignment_intro"`
+   `$ git commit -m "Completed hw-intro"` (or something like that)
 - Submit by writing: 
    `$ git push`
    
