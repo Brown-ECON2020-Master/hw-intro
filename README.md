@@ -5,9 +5,9 @@ This assignment is purposed to make all of you on the same page at the beginning
 The due is the last night of the *second* meeting. I recommend you to start this assignment as early as possible. At the first meeting, the instructor will answer questions. 
 
 **Aims:**
-1. Getting started with Git and GitHub. 
-1. Get accustomed to using GitHub for downloading and submitting your assignment. 
-1. Set up the environment for using Python.
+- Getting started with Git and GitHub. 
+- Get accustomed to using GitHub for downloading and submitting your assignment. 
+- Set up the environment for using Python.
 
 **Tasks:**
 1. Read [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students)
@@ -16,8 +16,8 @@ The due is the last night of the *second* meeting. I recommend you to start this
    + Clone
 1. In your laptop, download the [Anaconda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
 1. Open Spyder, an Integrated Development Environment (IDE), which is downloaded with the Anaconda distribution. 
-1. Write the code to check if the following equation holds true in Python: 0.1+0.1+0.1=0.3. Use print() for obtaining the result ("True" or "False"). 
-1. Submit your work following the steps described below. 
+1. Write the code to check if the following equations hold true in Python: (1) 0.1+0.1=0.2 & (2) 0.1+0.1+0.1=0.3. Use print() for obtaining the result ("True" or "False"). You can edit your code using the left side of Spyder as shown in the picture below. Save your code in your local folder `assignment_intro`.  
+1. Submit your .py file following the steps described below. 
 
 
 
