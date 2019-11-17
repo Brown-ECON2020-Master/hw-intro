@@ -20,7 +20,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 1. Submit your .py file following the steps described below. 
 
 
-## How to clone the repository into your local directory?
+### How to clone the repository into your local directory?
 - Open GitBash (in Windows) or the Terminal (in Mac).
 
 - Decide the location in your local machine where you want to put the local folder of this assignment. 
@@ -30,16 +30,17 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Clone the repository into your local directory which you set above:  
    
    `$ git clone https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
-- Go 
-   
-   `$ git cd assignment_intro-yourusername`
-- You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
 
+- Something like this
+![Course Directory](https://dl.dropboxusercontent.com/s/pjkuf0t7t04t5z5/fig_intro_1.png?dl=0 "Course Directory")
 
-## How to use Spyder?
+### How to use Spyder?
 ![Spyder](https://dl.dropboxusercontent.com/s/vqb91hwjyoecd5u/fig_spyder_1.png?dl=0 "Spyder")
 
-## How to submit your work?
+### How to submit your work?
+- Go to  
+   
+   `$ git cd hw-intro-yourusername`
 
 `$ git add -A`
 
@@ -48,6 +49,4 @@ At the first meeting, the instructor will answer your questions for this assignm
 `$ git push`
 
 
-
-
-
+You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
