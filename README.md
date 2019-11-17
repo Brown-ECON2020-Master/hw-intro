@@ -2,7 +2,7 @@
 **Welcome to ECON 2020 "Computing for Economists"!**
 
 This assignment is purposed to make all of you on the same page at the beginning of this course. 
-
+The due is the last night of the *second* meeting. I recommend you to start this assignment as early as possible. At the first meeting, the instructor will answer questions. 
 
 **Aims:**
 1. Getting started with Git and GitHub. 
@@ -14,9 +14,9 @@ This assignment is purposed to make all of you on the same page at the beginning
 1. Clone the private repository `assignment-intro-yourusername` in the @Brown-ECON2020-Spring2020 organization into your local machine. 
    + Set the path
    + Clone
-1. In your laptop, download the [Anac onda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
+1. In your laptop, download the [Anaconda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
 1. Open Spyder, an Integrated Development Environment (IDE), which is downloaded with the Anaconda distribution. 
-1. TBD
+1. Write the code to check if the following equation holds true in Python: 0.1+0.1+0.1=0.3. Use print() for obtaining the result ("True" or "False"). 
 1. Submit your work following the steps described below. 
 
 
