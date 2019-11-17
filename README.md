@@ -1,12 +1,12 @@
 # assignment_intro
 
-### Welcome to ECON 2020 "Computing for Economists"! 
+## Welcome to ECON 2020 "Computing for Economists"! 
 
 This assignment is purposed to make all of you on the same page at the beginning of this course. 
 **The due is the last mignight of the *second* meeting.** I recommend you to start this assignment as early as possible. 
 At the first meeting, the instructor will answer your questions for this assignment so that you will be well prepared for submitting your work by the second meeting. Looking forward to meeting you all soon!
 
-#### Aims:
+### Aims:
 - Getting started with Git and GitHub. 
 - Get accustomed to using GitHub for downloading and submitting your assignment. 
 - Set up the environment for using Python.
@@ -20,7 +20,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 1. Submit your .py file following the steps described below. 
 
 
-**How to clone the repository into your local directory?**
+## How to clone the repository into your local directory?
 - Open GitBash (in Windows) or the Terminal (in Mac).
 
 - Decide the location in your local machine where you want to put the local folder of this assignment. 
@@ -37,10 +37,10 @@ E.g.) `$ git cd Dropbox/ECON2020/assignments`
 - You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
 
 
-**How to use Spyder?**
+## How to use Spyder?
 ![Spyder](https://dl.dropboxusercontent.com/s/vqb91hwjyoecd5u/fig_spyder_1.png?dl=0 "Spyder")
 
-**How to submit your work?**
+## How to submit your work?
 
 `$ git add -A`
 
