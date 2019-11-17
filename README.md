@@ -6,7 +6,7 @@ This assignment is purposed to make all of you on the same page at the beginning
 **The due is the last mignight of the *second* meeting.** I recommend you to start this assignment as early as possible. 
 At the first meeting, the instructor will answer your questions for this assignment so that you will be well prepared for submitting your work by the second meeting. Looking forward to meeting you all soon!
 
-### Aims:
+### Aims of this assignment:
 - Getting started with Git and GitHub. 
 - Get accustomed to using GitHub for downloading and submitting your assignment. 
 - Set up the environment for using Python.
@@ -31,7 +31,12 @@ At the first meeting, the instructor will answer your questions for this assignm
    
    `$ git clone https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 
-- Something like this
+- Likewise, you can clone the class materials: 
+   
+   `$ git cd Dropbox/ECON2020`
+   `$ git clone https://github.com/Brown-ECON2020-Spring2020/class_materials`
+
+- Finally, your local repository will look like this:
 <img width="400" alt="Course Directory" src="https://dl.dropboxusercontent.com/s/pjkuf0t7t04t5z5/fig_intro_1.png?dl=0">
 
 
