@@ -16,8 +16,7 @@ This assignment is purposed to make all of you on the same page at the beginning
 5. Submit your work following the steps described below. 
 
 **How to Use Spyder?**
-![Spyder](https://www.dropbox.com/s/vqb91hwjyoecd5u/fig_spyder_1.png?dl=0 "Spyder")
-
+![Spyder](file:///C:/Users/stsuda/Dropbox/ECON2020/LectureSlides/fig_spyder_1.png "Spyder")
 
 **Submitting your work**
 
