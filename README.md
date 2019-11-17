@@ -60,5 +60,6 @@ At the first meeting, the instructor will answer your questions for this assignm
 
 
 *You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.*
+
 *The lecture on software engineering will soon cover more detail in utilizing Git & GitHub.*
 
