@@ -44,15 +44,18 @@ At the first meeting, the instructor will answer your questions for this assignm
 ![Spyder](https://dl.dropboxusercontent.com/s/vqb91hwjyoecd5u/fig_spyder_1.png?dl=0 "Spyder")
 
 ### How to submit your work?
-- Go to  
+- Edit and save your code in your local folder `ECON2020/assignments/hw-intro-yourusername`.
+- In GitBash or the Terminal, navitgate to that place:
    
-   `$ git cd hw-intro-yourusername`
+   `$ git cd Dropbox/ECON2020/assignments/hw-intro-yourusername`
+- Save the changes you have made and commit in Git:
 
-`$ git add -A`
-
-`$ git commit -m "Completed assignment_intro"`
-
-`$ git push`
+   `$ git add -A`
+   `$ git commit -m "Completed assignment_intro"`
+- Submit by writing: 
+   `$ git push`
+   
+- Check that your code appears in the online GitHub repository at `https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 
 
 You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
