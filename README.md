@@ -23,7 +23,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 ### How to clone the repository into your local directory?
 - Open GitBash (in Windows) or the Terminal (in Mac).
 
-- Decide the location in your local machine where you want to put the local folder of this assignment. 
+- Decide the location in your local machine where you want to put the local folder of this assignment. It can be anywhere in your machine (e.g., C: drive, Dropbox, D: drive, etc), but NOT be in an external hard drive.   
    
    E.g.) `$ git cd Dropbox/ECON2020/assignments`
 
