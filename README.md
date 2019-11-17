@@ -9,15 +9,14 @@ This assignment is purposed to make all of you on the same page at the beginning
 2. Get accustomed to using GitHub Classroom for downloading and submitting your assignment. 
 
 **Tasks:**
-- Read ["Code and Data for the Social Sciences: A Practitioner’s Guide" by Matthew Gentzkow and Jesse Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf).
-- Read [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students)
-- Clone the private repository `assignment-intro-yourusername` in the @Brown-ECON2020-Spring2020 organization into your local machine. 
-   + Set the path
-   + Clone
-- In your laptop, download the [Anac onda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
-- Open Spyder, an Integrated Development Environment (IDE), which is downloaded with the Anaconda distribution. 
-- TBD
-- Submit your work following the steps described below. 
+1. Read [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students)
+1. Clone the private repository `assignment-intro-yourusername` in the @Brown-ECON2020-Spring2020 organization into your local machine. 
+   1.1. Set the path
+   1.2. Clone
+1. In your laptop, download the [Anac onda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
+1. Open Spyder, an Integrated Development Environment (IDE), which is downloaded with the Anaconda distribution. 
+1. TBD
+1. Submit your work following the steps described below. 
 
 
 
