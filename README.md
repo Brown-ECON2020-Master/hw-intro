@@ -51,6 +51,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Save the changes you have made and commit in Git:
 
    `$ git add -A`
+   
    `$ git commit -m "Completed assignment_intro"`
 - Submit by writing: 
    `$ git push`
@@ -58,4 +59,6 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Check that your code appears in the online GitHub repository at `https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 
 
-You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.
+*You can also see this [GitHub Classroom Guide for Students](https://github.com/jfiksel/github-classroom-for-students) for more detail.*
+*The lecture on software engineering will soon cover more detail in utilizing Git & GitHub.*
+
