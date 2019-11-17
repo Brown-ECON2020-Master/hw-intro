@@ -32,7 +32,6 @@ At the first meeting, the instructor will answer your questions for this assignm
    `$ git clone https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 
 - Something like this
-![Course Directory](https://dl.dropboxusercontent.com/s/pjkuf0t7t04t5z5/fig_intro_1.png?dl=0 "Course Directory")
 <img width="400" alt="Course Directory" src="https://dl.dropboxusercontent.com/s/pjkuf0t7t04t5z5/fig_intro_1.png?dl=0">
 
 
