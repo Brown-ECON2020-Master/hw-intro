@@ -3,7 +3,7 @@
 ## Welcome to ECON 2020 "Computing for Economists"! 
 
 This assignment is purposed to make all of you on the same page at the beginning of this course. 
-**The due is the last mignight of the *second* meeting.** I recommend you to start this assignment as early as possible. 
+**The due is at 9am of the *second* meeting day.** I recommend you to start this assignment as early as possible. 
 At the first meeting, the instructor will answer your questions for this assignment so that you will be well prepared for submitting your work by the second meeting. Looking forward to meeting you all soon!
 
 ### Aims of this assignment:
