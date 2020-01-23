@@ -60,7 +60,7 @@ At the first meeting, the instructor will answer your questions for this assignm
    
 - Check that your code appears in the online GitHub repository at 
 　　
-  　`https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
+   `https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
 
 ### Remarks
 
