@@ -25,7 +25,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 
 - Decide the location in your local machine where you want to put the local folder of this assignment. It can be anywhere in your machine (e.g., C: drive, Dropbox, D: drive, etc), but NOT be in an external hard drive.   
    
-   E.g.) `$ git cd Dropbox/ECON2020/assignments`
+   E.g.) `$ cd Dropbox/ECON2020/assignments`
 
 - Clone the repository into your local directory which you set above:  
    
@@ -33,7 +33,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 
 - Likewise, you can clone the class materials: 
    
-   `$ git cd Dropbox/ECON2020`
+   `$ cd Dropbox/ECON2020`
    
    `$ git clone https://github.com/Brown-ECON2020-Spring2020/class_materials`
 
@@ -48,7 +48,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Edit and save your code in your local folder `ECON2020/assignments/hw-intro-yourusername`.
 - In GitBash or the Terminal, navitgate to that place:
    
-   `$ git cd Dropbox/ECON2020/assignments/hw-intro-yourusername`
+   `$ cd Dropbox/ECON2020/assignments/hw-intro-yourusername`
 - Save the changes you have made and commit in Git:
 
    `$ git add -A`
