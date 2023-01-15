@@ -29,13 +29,13 @@ At the first meeting, the instructor will answer your questions for this assignm
 
 - Clone the repository into your local directory which you set above:  
    
-   `$ git clone https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
+   `$ git clone https://github.com/Brown-ECON2020-Spring2023/hw-intro-yourusername`
 
 - Likewise, you can clone the class materials: 
    
    `$ cd Dropbox/ECON2020`
    
-   `$ git clone https://github.com/Brown-ECON2020-Spring2020/class_materials`
+   `$ git clone https://github.com/Brown-ECON2020-Spring2023/class_materials`
 
 - Finally, your local repository will look like this:
 <img width="400" alt="Course Directory" src="https://dl.dropboxusercontent.com/s/pjkuf0t7t04t5z5/fig_intro_1.png?dl=0">
