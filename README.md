@@ -12,7 +12,7 @@ At the first meeting, the instructor will answer your questions for this assignm
 - Set up the environment for using Python.
 
 ### Tasks:
-1. Clone the private repository `hw-intro-yourusername` in the @Brown-ECON2020-Spring2020 organization into your local machine. See below for the detail steps.  
+1. Clone the private repository `hw-intro-yourusername` in the @Brown-ECON2020-Spring2023 organization into your local machine. See below for the detail steps.  
 1. In your laptop, download the [Anaconda distribution of Python](https://www.anaconda.com/distribution/), which comes with all the packages you will need. Download the Python 3.x version (, not the Python 2.7 version).
 1. Open Spyder, an Integrated Development Environment (IDE), which is downloaded with the Anaconda distribution. 
 1. Write the code to print your name and research interests. In the same code, write the code to check if the following equations hold true in Python: (1) 0.1+0.1=0.2 & (2) 0.1+0.1+0.1=0.3. Use print(x == y) for obtaining the result ("True" or "False"). You can edit your code using the left side of Spyder as shown in the picture below. 
@@ -60,7 +60,7 @@ At the first meeting, the instructor will answer your questions for this assignm
    
 - Check that your code appears in the online GitHub repository at 
 　　
-   `https://github.com/Brown-ECON2020-Spring2020/hw-intro-yourusername`
+   `https://github.com/Brown-ECON2020-Spring2023/hw-intro-yourusername`
 
 ### Remarks
 
